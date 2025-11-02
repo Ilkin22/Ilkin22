@@ -1,17 +1,17 @@
 <h1 align="center">Hi there, I'm Ilkin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
-Aspiring Data Scientist from Trabzon, Türkiye \u00b7 Passionate about uncovering insights from data.
+Aspiring Data Scientist from Trabzon, Türkiye · Passionate about uncovering insights from data.
 </p>
 
-## 🧐 About Me
+## 🤠 About Me
 
 - 🎓 I’m a student passionate about **Data Science & Machine Learning**.
 - 📊 I love working with data, building predictive models and visualizing insights.
 - 📚 I’m currently deepening my knowledge in **Python, SQL, statistics and AI**.
-- 💡 I’m eager to collaborate on open‑source data science projects.
+- 💡 I’m eager to collaborate on open-source data science projects.
 
-## 🧰 Skills & Competencies
+## 🛠️ Skills & Competencies
 
 As a Data Science student, I have developed a strong foundation in the following areas:
 
@@ -45,15 +45,13 @@ This skillset equips me to tackle diverse data challenges and contribute effecti
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilkin22&layout=compact&theme=default" alt="Top languages" />
 </p>
 
-## 💽 Featured Projects
+## 📂 Featured Projects
 
-- **- *Desktop Tutorial** — An educational repository demonstrating GitHub workflows and basics. [Link](https://github.com/Ilkin22/desktop-tutorial)
-- **Stck Price Forecasting** — A Random Forest–based stock prediction model using real financial data from yfinance. [Repository](https//github.com/Ilkin22/Stock-Price-Forecasting)
+- **Desktop Tutorial** — An educational repository demonstrating GitHub workflows and basics. [Link](https://github.com/Ilkin22/desktop-tutorial)
+- **Stock Price Forecasting** — A Random Forest–based stock prediction model using real financial data from yfinance. [Repository](https://github.com/Ilkin22/Stock-Price-Forecasting)
 - **Sales Forecasting Using Machine Learning** — A future project that will involve developing a sales forecasting model using machine learning techniques. Link will be added once available.
 
-<!-- Add more projects with a short description and link -->
-
-## 💌 Contact
+## 💬 Contact
 
 Feel free to reach out for collaboration or discussion about data science!
 
