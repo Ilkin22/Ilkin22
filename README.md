@@ -47,8 +47,9 @@ This skillset equips me to tackle diverse data challenges and contribute effecti
 
 ## 💽 Featured Projects
 
-- **Desktop Tutorial** — An educational repository demonstrating GitHub workflows and basics. [link](https://github.com/Ilkin22/desktop-tutorial)
-- - **Sales Forecasting Using Machine Learning** — A future project that will involve developing a sales forecasting model using machine learning techniques. ink will be added once available.
+- **- *Desktop Tutorial** — An educational repository demonstrating GitHub workflows and basics. [Link](https://github.com/Ilkin22/desktop-tutorial)
+- **Stck Price Forecasting** — A Random Forest–based stock prediction model using real financial data from yfinance. [Repository](https//github.com/Ilkin22/Stock-Price-Forecasting)
+- **Sales Forecasting Using Machine Learning** — A future project that will involve developing a sales forecasting model using machine learning techniques. Link will be added once available.
 
 <!-- Add more projects with a short description and link -->
 
