@@ -4,7 +4,7 @@
 Aspiring Data Scientist from Trabzon, Türkiye · Passionate about uncovering insights from data.
 </p>
 
-## 🤠 About Me
+##  About Me
 
 - 🎓 I’m a student passionate about **Data Science & Machine Learning**.
 - 📊 I love working with data, building predictive models and visualizing insights.
@@ -38,12 +38,6 @@ As a Data Science student, I have developed a strong foundation in the following
 
 This skillset equips me to tackle diverse data challenges and contribute effectively to data science projects and internships.
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ilkin22&show_icons=true&theme=default" alt="Ilkin's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilkin22&layout=compact&theme=default" alt="Top languages" />
-</p>
 
 ## 📂 Featured Projects
 
@@ -51,10 +45,3 @@ This skillset equips me to tackle diverse data challenges and contribute effecti
 - **Stock Price Forecasting** — A Random Forest–based stock prediction model using real financial data from yfinance. [Repository](https://github.com/Ilkin22/Stock-Price-Forecasting)
 - **Sales Forecasting Using Machine Learning** — A future project that will involve developing a sales forecasting model using machine learning techniques. Link will be added once available.
 
-## 💬 Contact
-
-Feel free to reach out for collaboration or discussion about data science!
-
-<!-- Social media icons if you have them, for example:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourusername/)](https://linkedin.com/in/yourusername/)
--->
