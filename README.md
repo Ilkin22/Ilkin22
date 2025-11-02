@@ -11,48 +11,6 @@ Aspiring Data Scientist from Trabzon, Türkiye \u00b7 Passionate about uncoverin
 - 📚 I’m currently deepening my knowledge in **Python, SQL, statistics and AI**.
 - 💡 I’m eager to collaborate on open‑source data science projects.
 
-## 🔧 Languages & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Scikit‑Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ilkin22&show_icons=true&theme=default" alt="Ilkin's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilkin22&layout=compact&theme=default" alt="Top languages" />
-</p>
-
-## 💽 Featured Projects
-
-- **Desktop Tutorial** — An educational repository demonstrating GitHub workflows and basics. [link](https://github.com/Ilkin22/desktop-tutorial)
-
-<!-- Add more projects with a short description and link -->
-
-## 💌 Contact
-
-Feel free to reach out for collaboration or discussion about data science!
-
-<!-- Social media icons if you have them, for example:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourusername/)](https://linkedin.com/in/yourusername/)
---><h1 align="center">Hi there, I'm Ilkin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
-
-<p align="center">
-Aspiring Data Scientist from Trabzon, Türkiye \u00b7 Passionate about uncovering insights from data.
-</p>
-
-## 🧐 About Me
-
-- 🎓 I’m a student passionate about **Data Science & Machine Learning**.
-- 📊 I love working with data, building predictive models and visualizing insights.
-- 📚 I’m currently deepening my knowledge in **Python, SQL, statistics and AI**.
-- 💡 I’m eager to collaborate on open‑source data science projects.
-
 ## 🧰 Skills & Competencies
 
 As a Data Science student, I have developed a strong foundation in the following areas:
